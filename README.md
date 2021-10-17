@@ -35,9 +35,9 @@ Arduino Tutorials
 - https://github.com/teaksoon/stemkraf/blob/main/Tutorial_5_Binary%20and%20Memory.pdf
 - t5_source_codes.zip
 
-Special
+Extras
 ---
-1. Notes
+1. Special Notes
 - https://github.com/teaksoon/stemkraf/blob/main/Special_Notes.pdf
 2. Installing Linux and Arduino IDE Software on Linux
 - https://github.com/teaksoon/stemkraf/blob/main/linux_arduino_installation.pdf
