@@ -24,8 +24,11 @@ Arduino Tutorials
 - t1_source_codes.zip
 2. Arduino Uno and Micro-Controller
 - https://github.com/teaksoon/stemkraf/blob/main/Tutorial_2_Arduino%20Uno%20and%20Micro-Controller.pdf
-3. More...
-4. 
+3. Arduino C Language Programming
+- https://github.com/teaksoon/stemkraf/blob/main/Tutorial_3_Arduino%20C-Language%20Programming.pdf
+4. More...
+5. 
+ 
 
 
 Special
