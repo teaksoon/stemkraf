@@ -26,8 +26,11 @@ Arduino Tutorials
 - https://github.com/teaksoon/stemkraf/blob/main/Tutorial_2_Arduino%20Uno%20and%20Micro-Controller.pdf
 3. Arduino C Language Programming
 - https://github.com/teaksoon/stemkraf/blob/main/Tutorial_3_Arduino%20C-Language%20Programming.pdf
-4. More...
-5. 
+4. Micro-controller Register Programming
+- https://github.com/teaksoon/stemkraf/blob/main/Tutorial_4_Micro-Controller%20Register%20Programming.pdf
+5. more
+6. 
+7. 
  
 
 
