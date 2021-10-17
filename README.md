@@ -16,4 +16,7 @@ ab3_source_codes.zip
 Arduino Tutorials
 ---
 
-
+Special
+---
+- Installing Linux and Arduino IDE Software on Linux
+Linux is a free and low resource requirement Operating System. If you are starting off with Arduino Uno and you do not have any computers to work with the Arduino IDE software. You may probably want to consider using an old discarded computer ( too slow for Windows ) for this purpose.
