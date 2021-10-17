@@ -37,8 +37,9 @@ Arduino Tutorials
 
 Special
 ---
-
-- Installing Linux and Arduino IDE Software on Linux
+1. Notes
+- https://github.com/teaksoon/stemkraf/blob/main/Special_Notes.pdf
+2. Installing Linux and Arduino IDE Software on Linux
 - https://github.com/teaksoon/stemkraf/blob/main/linux_arduino_installation.pdf
 - Linux is a free and low resource requirement Operating System. If you are starting off with Arduino Uno and you do not have any computers to work with the Arduino IDE software. You may probably want to consider using an old discarded computer ( too slow for Windows ) for this purpose. 
 
