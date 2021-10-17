@@ -5,7 +5,7 @@ STEMKRAF Tutorial and Projects
 Basic Arduino 
 ---
 0. Power Supply for Arduino Uno
-- https://github.com/teaksoon/stemkrhttps://github.com/teaksoon/stemkraf/blob/main/linux_arduino_installation.pdfaf/blob/main/linux_arduino_installation.pdf
+- https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_0_Power_Supply.pdf
 2. LED with Arduino Uno
 - https://github.com/teaksoon/stemkraf/blob/main/linux_arduino_installation.pdf
 - ab1_source_codes.zip
