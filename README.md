@@ -7,7 +7,7 @@ Basic Arduino
 0. Power Supply for Arduino Uno
 - https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_0_Power_Supply.pdf
 2. LED with Arduino Uno
-- https://github.com/teaksoon/stemkraf/blob/main/linux_arduino_installation.pdf
+- https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_1_LED.pdf
 - ab1_source_codes.zip
 4. Resistor with Arduino Uno
 - https://github.com/teaksoon/stemkraf/blob/main/linux_arduino_installation.pdf
