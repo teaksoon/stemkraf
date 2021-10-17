@@ -13,7 +13,7 @@ Basic Arduino
 - https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_2_Resistor.pdf
 - ab2_source_codes.zip
 6. Input/Output Pins in Arduino Uno
-- https://github.com/teaksoon/stemkraf/blob/main/linux_arduino_installation.pdf
+- https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_3_Input_Output_Pins.pdf
 - ab3_source_codes.zip
 
 
