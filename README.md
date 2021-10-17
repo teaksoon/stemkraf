@@ -22,7 +22,10 @@ Arduino Tutorials
 1. Arduino Uno Quick Start
 - https://github.com/teaksoon/stemkraf/blob/main/Tutorial_1_Arduino%20Uno%20Quick%20Start.pdf
 - t1_source_codes.zip
-2. More...
+2. Arduino Uno and Micro-Controller
+- https://github.com/teaksoon/stemkraf/blob/main/Tutorial_2_Arduino%20Uno%20and%20Micro-Controller.pdf
+3. More...
+4. 
 
 
 Special
