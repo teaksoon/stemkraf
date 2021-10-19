@@ -2,19 +2,10 @@
 STEMKRAF Tutorial and Projects
 ---
 
-Basic Arduino 
+Tutorial Parts 
 ---
-0. Power Supply for Arduino Uno
-- https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_0_Power_Supply.pdf
-1. LED with Arduino Uno
-- https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_1_LED.pdf
-- ab1_source_codes.zip
-2. Resistor with Arduino Uno
-- https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_2_Resistor.pdf
-- ab2_source_codes.zip
-3. Input/Output Pins in Arduino Uno
-- https://github.com/teaksoon/stemkraf/blob/main/Arduino_Basics_3_Input_Output_Pins.pdf
-- ab3_source_codes.zip
+0 to 6
+Source Codes
 
 
 Arduino Tutorials
